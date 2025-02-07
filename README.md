@@ -1,2 +1,11 @@
 # notes
-How to create the tiny_computer app? /memo
+这个仓库用来记录我是如何逐步构建小小电脑的（备忘）！我会尽可能描述清楚每一个部分我是怎么做的以及为什么这么做。当然，很多时候我的做法不是最优的。如果你知道更好的做法，还请不吝赐教OvO
+
+## 容器构建篇
+如何编写自动化脚本构建小小电脑使用的Linux容器？
+
+
+
+
+## （图文无关）
+![AI的思考真是有趣](https://github.com/user-attachments/assets/d38d9a94-0362-4bd9-9ea2-493094247a84)
